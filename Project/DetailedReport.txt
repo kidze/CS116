@@ -1,0 +1,3075 @@
+At minute 0:
+
+
+Smart appliance with ID: 1330 was turned to LOW state.
+
+Smart appliance with ID: 1055 was turned to LOW state.
+
+Smart appliance with ID: 1240 was turned to LOW state.
+
+Smart appliance with ID: 605 was turned to LOW state.
+
+Smart appliance with ID: 1345 was turned to LOW state.
+
+Smart appliance with ID: 141 was turned to LOW state.
+
+Smart appliance with ID: 185 was turned to LOW state.
+
+Smart appliance with ID: 45 was turned to LOW state.
+
+Smart appliance with ID: 1452 was turned to LOW state.
+
+Smart appliance with ID: 1306 was turned to LOW state.
+
+Smart appliance with ID: 413 was turned to LOW state.
+
+Smart appliance with ID: 1038 was turned to LOW state.
+
+Smart appliance with ID: 718 was turned to LOW state.
+
+Smart appliance with ID: 398 was turned to LOW state.
+
+Smart appliance with ID: 1564 was turned to LOW state.
+
+Smart appliance with ID: 39 was turned to LOW state.
+
+Smart appliance with ID: 202 was turned to LOW state.
+
+Smart appliance with ID: 1675 was turned to LOW state.
+
+Smart appliance with ID: 1739 was turned to LOW state.
+
+Smart appliance with ID: 1524 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 303 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 372 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 306 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 238 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 243 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 291 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 538 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 1680 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 443 was turned to LOW state.
+
+Smart appliance with ID: 1687 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1690 was turned to LOW state.
+
+Smart appliance with ID: 1333 was turned to LOW state.
+
+Smart appliance with ID: 1694 was turned to LOW state.
+
+Smart appliance with ID: 1051 was turned to LOW state.
+
+Smart appliance with ID: 1696 was turned to LOW state.
+
+Smart appliance with ID: 1700 was turned to LOW state.
+
+Smart appliance with ID: 1338 was turned to LOW state.
+
+Smart appliance with ID: 446 was turned to LOW state.
+
+Smart appliance with ID: 448 was turned to LOW state.
+
+Smart appliance with ID: 1709 was turned to LOW state.
+
+At minute 5:
+
+
+All ON Smart appliances were turned to LOW.
+
+Location 10000001 was browned out.
+
+Location 10000002 was browned out.
+
+Location 10000003 was browned out.
+
+Location 10000004 was browned out.
+
+Location 10000005 was browned out.
+
+Location 10000006 was browned out.
+
+Location 10000007 was browned out.
+
+Location 10000008 was browned out.
+
+Location 10000009 was browned out.
+
+Location 10000010 was browned out.
+
+Location 10000011 was browned out.
+
+Location 10000012 was browned out.
+
+Location 10000013 was browned out.
+
+Location 10000014 was browned out.
+
+Location 10000015 was browned out.
+
+Location 10000016 was browned out.
+
+Location 10000017 was browned out.
+
+Location 10000018 was browned out.
+
+Location 10000019 was browned out.
+
+Location 10000020 was browned out.
+
+Location 10000021 was browned out.
+
+Location 10000022 was browned out.
+
+Location 10000023 was browned out.
+
+Location 10000024 was browned out.
+
+Location 10000025 was browned out.
+
+Location 10000026 was browned out.
+
+Location 10000027 was browned out.
+
+Location 10000028 was browned out.
+
+Location 10000029 was browned out.
+
+Location 10000030 was browned out.
+
+Location 10000031 was browned out.
+
+Location 10000032 was browned out.
+
+Location 10000033 was browned out.
+
+Location 10000034 was browned out.
+
+Location 10000035 was browned out.
+
+Location 10000036 was browned out.
+
+Location 10000037 was browned out.
+
+Location 10000038 was browned out.
+
+Location 10000039 was browned out.
+
+Location 10000040 was browned out.
+
+Location 10000041 was browned out.
+
+Location 10000042 was browned out.
+
+Location 10000043 was browned out.
+
+Location 10000044 was browned out.
+
+Location 10000045 was browned out.
+
+Location 10000046 was browned out.
+
+At minute 5:
+
+
+Smart appliance with ID: 448 was turned to LOW state.
+
+Smart appliance with ID: 450 was turned to LOW state.
+
+Smart appliance with ID: 291 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 1366 was turned to LOW state.
+
+Smart appliance with ID: 243 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 689 was turned to LOW state.
+
+Smart appliance with ID: 1074 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 690 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 17 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+At minute 13:
+
+
+Smart appliance with ID: 448 was turned to LOW state.
+
+Smart appliance with ID: 450 was turned to LOW state.
+
+Smart appliance with ID: 291 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 1366 was turned to LOW state.
+
+Smart appliance with ID: 243 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 689 was turned to LOW state.
+
+Smart appliance with ID: 1074 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 690 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 17 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+At minute 13:
+
+
+Smart appliance with ID: 448 was turned to LOW state.
+
+Smart appliance with ID: 450 was turned to LOW state.
+
+Smart appliance with ID: 291 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 1366 was turned to LOW state.
+
+Smart appliance with ID: 243 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 689 was turned to LOW state.
+
+Smart appliance with ID: 1074 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 690 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 17 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+At minute 18:
+
+
+Smart appliance with ID: 448 was turned to LOW state.
+
+Smart appliance with ID: 450 was turned to LOW state.
+
+Smart appliance with ID: 291 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 1366 was turned to LOW state.
+
+Smart appliance with ID: 243 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 689 was turned to LOW state.
+
+Smart appliance with ID: 1074 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 690 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 17 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+At minute 20:
+
+
+All ON Smart appliances were turned to LOW.
+
+Location 10000001 was browned out.
+
+Location 10000002 was browned out.
+
+Location 10000003 was browned out.
+
+Location 10000004 was browned out.
+
+Location 10000005 was browned out.
+
+Location 10000006 was browned out.
+
+Location 10000007 was browned out.
+
+Location 10000008 was browned out.
+
+Location 10000009 was browned out.
+
+Location 10000010 was browned out.
+
+Location 10000011 was browned out.
+
+Location 10000012 was browned out.
+
+Location 10000013 was browned out.
+
+Location 10000014 was browned out.
+
+Location 10000015 was browned out.
+
+Location 10000016 was browned out.
+
+Location 10000017 was browned out.
+
+Location 10000018 was browned out.
+
+Location 10000019 was browned out.
+
+Location 10000020 was browned out.
+
+Location 10000021 was browned out.
+
+Location 10000022 was browned out.
+
+Location 10000023 was browned out.
+
+Location 10000024 was browned out.
+
+Location 10000025 was browned out.
+
+Location 10000026 was browned out.
+
+Location 10000027 was browned out.
+
+Location 10000028 was browned out.
+
+Location 10000029 was browned out.
+
+Location 10000030 was browned out.
+
+Location 10000031 was browned out.
+
+Location 10000032 was browned out.
+
+Location 10000033 was browned out.
+
+Location 10000034 was browned out.
+
+Location 10000035 was browned out.
+
+Location 10000036 was browned out.
+
+Location 10000037 was browned out.
+
+Location 10000038 was browned out.
+
+Location 10000039 was browned out.
+
+Location 10000040 was browned out.
+
+Location 10000041 was browned out.
+
+Location 10000042 was browned out.
+
+Location 10000043 was browned out.
+
+Location 10000044 was browned out.
+
+Location 10000045 was browned out.
+
+Location 10000046 was browned out.
+
+At minute 35:
+
+
+Smart appliance with ID: 443 was turned to LOW state.
+
+Smart appliance with ID: 446 was turned to LOW state.
+
+Smart appliance with ID: 1375 was turned to LOW state.
+
+Smart appliance with ID: 1366 was turned to LOW state.
+
+Smart appliance with ID: 303 was turned to LOW state.
+
+Smart appliance with ID: 306 was turned to LOW state.
+
+Smart appliance with ID: 238 was turned to LOW state.
+
+Smart appliance with ID: 697 was turned to LOW state.
+
+Smart appliance with ID: 704 was turned to LOW state.
+
+Smart appliance with ID: 689 was turned to LOW state.
+
+Smart appliance with ID: 1074 was turned to LOW state.
+
+Smart appliance with ID: 864 was turned to LOW state.
+
+Smart appliance with ID: 873 was turned to LOW state.
+
+Smart appliance with ID: 875 was turned to LOW state.
+
+Smart appliance with ID: 690 was turned to LOW state.
+
+Smart appliance with ID: 111 was turned to LOW state.
+
+Smart appliance with ID: 112 was turned to LOW state.
+
+Smart appliance with ID: 117 was turned to LOW state.
+
+Smart appliance with ID: 147 was turned to LOW state.
+
+Smart appliance with ID: 33 was turned to LOW state.
+
+Smart appliance with ID: 1097 was turned to LOW state.
+
+Smart appliance with ID: 1099 was turned to LOW state.
+
+Smart appliance with ID: 1394 was turned to LOW state.
+
+Smart appliance with ID: 1398 was turned to LOW state.
+
+Smart appliance with ID: 1102 was turned to LOW state.
+
+Smart appliance with ID: 1106 was turned to LOW state.
+
+Smart appliance with ID: 1109 was turned to LOW state.
+
+Smart appliance with ID: 1110 was turned to LOW state.
+
+Smart appliance with ID: 206 was turned to LOW state.
+
+Smart appliance with ID: 208 was turned to LOW state.
+
+Smart appliance with ID: 215 was turned to LOW state.
+
+Smart appliance with ID: 88 was turned to LOW state.
+
+Smart appliance with ID: 378 was turned to LOW state.
+
+Smart appliance with ID: 890 was turned to LOW state.
+
+Smart appliance with ID: 574 was turned to LOW state.
+
+Smart appliance with ID: 711 was turned to LOW state.
+
+Smart appliance with ID: 1118 was turned to LOW state.
+
+Smart appliance with ID: 1418 was turned to LOW state.
+
+Smart appliance with ID: 1421 was turned to LOW state.
+
+Smart appliance with ID: 1122 was turned to LOW state.
+
+Smart appliance with ID: 715 was turned to LOW state.
+
+Smart appliance with ID: 717 was turned to LOW state.
+
+Smart appliance with ID: 471 was turned to LOW state.
+
+Smart appliance with ID: 379 was turned to LOW state.
+
+Smart appliance with ID: 308 was turned to LOW state.
+
+Smart appliance with ID: 311 was turned to LOW state.
+
+Smart appliance with ID: 313 was turned to LOW state.
+
+Smart appliance with ID: 1436 was turned to LOW state.
+
+Smart appliance with ID: 1443 was turned to LOW state.
+
+Smart appliance with ID: 1445 was turned to LOW state.
+
+Smart appliance with ID: 1127 was turned to LOW state.
+
+Smart appliance with ID: 1133 was turned to LOW state.
+
+Smart appliance with ID: 1135 was turned to LOW state.
+
+Smart appliance with ID: 1140 was turned to LOW state.
+
+Smart appliance with ID: 907 was turned to LOW state.
+
+Smart appliance with ID: 318 was turned to LOW state.
+
+Smart appliance with ID: 89 was turned to LOW state.
+
+Smart appliance with ID: 583 was turned to LOW state.
+
+Smart appliance with ID: 1447 was turned to LOW state.
+
+Smart appliance with ID: 1453 was turned to LOW state.
+
+Smart appliance with ID: 1458 was turned to LOW state.
+
+Smart appliance with ID: 1459 was turned to LOW state.
+
+Smart appliance with ID: 584 was turned to LOW state.
+
+Smart appliance with ID: 586 was turned to LOW state.
+
+Smart appliance with ID: 723 was turned to LOW state.
+
+Smart appliance with ID: 727 was turned to LOW state.
+
+Smart appliance with ID: 734 was turned to LOW state.
+
+Smart appliance with ID: 587 was turned to LOW state.
+
+Smart appliance with ID: 596 was turned to LOW state.
+
+Smart appliance with ID: 598 was turned to LOW state.
+
+Smart appliance with ID: 1150 was turned to LOW state.
+
+Smart appliance with ID: 1160 was turned to LOW state.
+
+Smart appliance with ID: 599 was turned to LOW state.
+
+Smart appliance with ID: 918 was turned to LOW state.
+
+Smart appliance with ID: 1478 was turned to LOW state.
+
+Smart appliance with ID: 926 was turned to LOW state.
+
+Smart appliance with ID: 929 was turned to LOW state.
+
+Smart appliance with ID: 171 was turned to LOW state.
+
+Smart appliance with ID: 175 was turned to LOW state.
+
+Smart appliance with ID: 97 was turned to LOW state.
+
+Smart appliance with ID: 257 was turned to LOW state.
+
+Smart appliance with ID: 272 was turned to LOW state.
+
+Smart appliance with ID: 86 was turned to LOW state.
+
+Smart appliance with ID: 1168 was turned to LOW state.
+
+Smart appliance with ID: 1179 was turned to LOW state.
+
+Smart appliance with ID: 1486 was turned to LOW state.
+
+Smart appliance with ID: 1487 was turned to LOW state.
+
+Smart appliance with ID: 1499 was turned to LOW state.
+
+Smart appliance with ID: 1180 was turned to LOW state.
+
+Smart appliance with ID: 1182 was turned to LOW state.
+
+Smart appliance with ID: 75 was turned to LOW state.
+
+Smart appliance with ID: 749 was turned to LOW state.
+
+Smart appliance with ID: 750 was turned to LOW state.
+
+Smart appliance with ID: 752 was turned to LOW state.
+
+Smart appliance with ID: 754 was turned to LOW state.
+
+Smart appliance with ID: 941 was turned to LOW state.
+
+Smart appliance with ID: 395 was turned to LOW state.
+
+Smart appliance with ID: 1183 was turned to LOW state.
+
+Smart appliance with ID: 1502 was turned to LOW state.
+
+Smart appliance with ID: 1513 was turned to LOW state.
+
+Smart appliance with ID: 1189 was turned to LOW state.
+
+Smart appliance with ID: 1193 was turned to LOW state.
+
+Smart appliance with ID: 77 was turned to LOW state.
+
+Smart appliance with ID: 69 was turned to LOW state.
+
+Smart appliance with ID: 44 was turned to LOW state.
+
+Smart appliance with ID: 25 was turned to LOW state.
+
+Smart appliance with ID: 613 was turned to LOW state.
+
+Smart appliance with ID: 1518 was turned to LOW state.
+
+Smart appliance with ID: 1521 was turned to LOW state.
+
+Smart appliance with ID: 1530 was turned to LOW state.
+
+Smart appliance with ID: 1532 was turned to LOW state.
+
+Smart appliance with ID: 762 was turned to LOW state.
+
+Smart appliance with ID: 1204 was turned to LOW state.
+
+Smart appliance with ID: 1209 was turned to LOW state.
+
+Smart appliance with ID: 1210 was turned to LOW state.
+
+Smart appliance with ID: 1211 was turned to LOW state.
+
+Smart appliance with ID: 1212 was turned to LOW state.
+
+Smart appliance with ID: 765 was turned to LOW state.
+
+Smart appliance with ID: 767 was turned to LOW state.
+
+Smart appliance with ID: 20 was turned to LOW state.
+
+Smart appliance with ID: 1544 was turned to LOW state.
+
+Smart appliance with ID: 235 was turned to LOW state.
+
+Smart appliance with ID: 128 was turned to LOW state.
+
+Smart appliance with ID: 133 was turned to LOW state.
+
+Smart appliance with ID: 30 was turned to LOW state.
+
+Smart appliance with ID: 505 was turned to LOW state.
+
+Smart appliance with ID: 507 was turned to LOW state.
+
+Smart appliance with ID: 1219 was turned to LOW state.
+
+Smart appliance with ID: 628 was turned to LOW state.
+
+Smart appliance with ID: 965 was turned to LOW state.
+
+Smart appliance with ID: 970 was turned to LOW state.
+
+Smart appliance with ID: 1558 was turned to LOW state.
+
+Smart appliance with ID: 1569 was turned to LOW state.
+
+Smart appliance with ID: 776 was turned to LOW state.
+
+Smart appliance with ID: 778 was turned to LOW state.
+
+Smart appliance with ID: 787 was turned to LOW state.
+
+Smart appliance with ID: 793 was turned to LOW state.
+
+Smart appliance with ID: 630 was turned to LOW state.
+
+Smart appliance with ID: 634 was turned to LOW state.
+
+Smart appliance with ID: 635 was turned to LOW state.
+
+Smart appliance with ID: 1238 was turned to LOW state.
+
+Smart appliance with ID: 1239 was turned to LOW state.
+
+Smart appliance with ID: 411 was turned to LOW state.
+
+Smart appliance with ID: 412 was turned to LOW state.
+
+Smart appliance with ID: 422 was turned to LOW state.
+
+Smart appliance with ID: 424 was turned to LOW state.
+
+Smart appliance with ID: 187 was turned to LOW state.
+
+Smart appliance with ID: 1574 was turned to LOW state.
+
+Smart appliance with ID: 1586 was turned to LOW state.
+
+Smart appliance with ID: 981 was turned to LOW state.
+
+Smart appliance with ID: 984 was turned to LOW state.
+
+Smart appliance with ID: 986 was turned to LOW state.
+
+Smart appliance with ID: 193 was turned to LOW state.
+
+Smart appliance with ID: 200 was turned to LOW state.
+
+Smart appliance with ID: 201 was turned to LOW state.
+
+Smart appliance with ID: 17 was turned to LOW state.
+
+Smart appliance with ID: 1253 was turned to LOW state.
+
+Smart appliance with ID: 1263 was turned to LOW state.
+
+Smart appliance with ID: 1597 was turned to LOW state.
+
+Smart appliance with ID: 1600 was turned to LOW state.
+
+Smart appliance with ID: 1601 was turned to LOW state.
+
+Smart appliance with ID: 808 was turned to LOW state.
+
+Smart appliance with ID: 809 was turned to LOW state.
+
+Smart appliance with ID: 640 was turned to LOW state.
+
+Smart appliance with ID: 646 was turned to LOW state.
+
+Smart appliance with ID: 650 was turned to LOW state.
+
+Smart appliance with ID: 351 was turned to LOW state.
+
+Smart appliance with ID: 1000 was turned to LOW state.
+
+Smart appliance with ID: 1271 was turned to LOW state.
+
+Smart appliance with ID: 1274 was turned to LOW state.
+
+Smart appliance with ID: 1606 was turned to LOW state.
+
+Smart appliance with ID: 1620 was turned to LOW state.
+
+Smart appliance with ID: 1623 was turned to LOW state.
+
+Smart appliance with ID: 1280 was turned to LOW state.
+
+Smart appliance with ID: 1283 was turned to LOW state.
+
+Smart appliance with ID: 1009 was turned to LOW state.
+
+Smart appliance with ID: 354 was turned to LOW state.
+
+Smart appliance with ID: 522 was turned to LOW state.
+
+Smart appliance with ID: 523 was turned to LOW state.
+
+Smart appliance with ID: 525 was turned to LOW state.
+
+Smart appliance with ID: 527 was turned to LOW state.
+
+Smart appliance with ID: 530 was turned to LOW state.
+
+Smart appliance with ID: 1633 was turned to LOW state.
+
+Smart appliance with ID: 1634 was turned to LOW state.
+
+Smart appliance with ID: 1288 was turned to LOW state.
+
+Smart appliance with ID: 1289 was turned to LOW state.
+
+Smart appliance with ID: 1295 was turned to LOW state.
+
+Smart appliance with ID: 1300 was turned to LOW state.
+
+Smart appliance with ID: 46 was turned to LOW state.
+
+Smart appliance with ID: 426 was turned to LOW state.
+
+Smart appliance with ID: 429 was turned to LOW state.
+
+Smart appliance with ID: 432 was turned to LOW state.
+
+Smart appliance with ID: 1646 was turned to LOW state.
+
+Smart appliance with ID: 1648 was turned to LOW state.
+
+Smart appliance with ID: 1659 was turned to LOW state.
+
+Smart appliance with ID: 1019 was turned to LOW state.
+
+Smart appliance with ID: 1027 was turned to LOW state.
+
+Smart appliance with ID: 665 was turned to LOW state.
+
+Smart appliance with ID: 671 was turned to LOW state.
+
+Smart appliance with ID: 442 was turned to LOW state.
+
+Smart appliance with ID: 2 was turned to LOW state.
+
+Smart appliance with ID: 1310 was turned to LOW state.
+
+Smart appliance with ID: 1316 was turned to LOW state.
+
+Smart appliance with ID: 1320 was turned to LOW state.
+
+Smart appliance with ID: 828 was turned to LOW state.
+
+Smart appliance with ID: 1673 was turned to LOW state.
+
+Smart appliance with ID: 1677 was turned to LOW state.
+
+Smart appliance with ID: 1678 was turned to LOW state.
+
+Smart appliance with ID: 830 was turned to LOW state.
+
+Smart appliance with ID: 836 was turned to LOW state.
+
+Smart appliance with ID: 106 was turned to LOW state.
+
+At minute 43:
+
+
+All ON Smart appliances were turned to LOW.
+
+Location 10000001 was browned out.
+
+Location 10000002 was browned out.
+
+Location 10000003 was browned out.
+
+Location 10000004 was browned out.
+
+Location 10000005 was browned out.
+
+Location 10000006 was browned out.
+
+Location 10000007 was browned out.
+
+Location 10000008 was browned out.
+
+Location 10000009 was browned out.
+
+Location 10000010 was browned out.
+
+Location 10000011 was browned out.
+
+Location 10000012 was browned out.
+
+Location 10000013 was browned out.
+
+Location 10000014 was browned out.
+
+Location 10000015 was browned out.
+
+Location 10000016 was browned out.
+
+Location 10000017 was browned out.
+
+Location 10000018 was browned out.
+
+Location 10000019 was browned out.
+
+Location 10000020 was browned out.
+
+Location 10000021 was browned out.
+
+Location 10000022 was browned out.
+
+Location 10000023 was browned out.
+
+Location 10000024 was browned out.
+
+Location 10000025 was browned out.
+
+Location 10000026 was browned out.
+
+Location 10000027 was browned out.
+
+Location 10000028 was browned out.
+
+Location 10000029 was browned out.
+
+Location 10000030 was browned out.
+
+Location 10000031 was browned out.
+
+Location 10000032 was browned out.
+
+Location 10000033 was browned out.
+
+Location 10000034 was browned out.
+
+Location 10000035 was browned out.
+
+Location 10000036 was browned out.
+
+Location 10000037 was browned out.
+
+Location 10000038 was browned out.
+
+Location 10000039 was browned out.
+
+Location 10000040 was browned out.
+
+Location 10000041 was browned out.
+
+Location 10000042 was browned out.
+
+Location 10000043 was browned out.
+
+Location 10000044 was browned out.
+
+Location 10000045 was browned out.
+
+Location 10000046 was browned out.
+
+At minute 47:
+
+
+All ON Smart appliances were turned to LOW.
+
+Location 10000001 was browned out.
+
+Location 10000002 was browned out.
+
+Location 10000003 was browned out.
+
+Location 10000004 was browned out.
+
+Location 10000005 was browned out.
+
+Location 10000006 was browned out.
+
+Location 10000007 was browned out.
+
+Location 10000008 was browned out.
+
+Location 10000009 was browned out.
+
+Location 10000010 was browned out.
+
+Location 10000011 was browned out.
+
+Location 10000012 was browned out.
+
+At minute 49:
+
+
+All ON Smart appliances were turned to LOW.
+
+Location 10000001 was browned out.
+
+Location 10000002 was browned out.
+
+Location 10000003 was browned out.
+
+Location 10000004 was browned out.
+
+Location 10000005 was browned out.
+
+Location 10000006 was browned out.
+
+Location 10000007 was browned out.
+
+Location 10000008 was browned out.
+
+Location 10000009 was browned out.
+
+Location 10000010 was browned out.
+
+Location 10000011 was browned out.
+
+Location 10000012 was browned out.
+
+Location 10000013 was browned out.
+
+Location 10000014 was browned out.
+
+Location 10000015 was browned out.
+
+Location 10000016 was browned out.
+
+Location 10000017 was browned out.
+
+Location 10000018 was browned out.
+
+Location 10000019 was browned out.
+
+Location 10000020 was browned out.
+
+Location 10000021 was browned out.
+
+Location 10000022 was browned out.
+
+Location 10000023 was browned out.
+
+Location 10000024 was browned out.
+
+Location 10000025 was browned out.
+
+Location 10000026 was browned out.
+
+Location 10000027 was browned out.
+
+Location 10000028 was browned out.
+
+Location 10000029 was browned out.
+
+Location 10000030 was browned out.
+
+Location 10000031 was browned out.
+
+Location 10000032 was browned out.
+
+Location 10000033 was browned out.
+
+Location 10000034 was browned out.
+
+Location 10000035 was browned out.
+
+Location 10000036 was browned out.
+
+Location 10000037 was browned out.
+
+Location 10000038 was browned out.
+
+Location 10000039 was browned out.
+
+Location 10000040 was browned out.
+
+Location 10000041 was browned out.
+
+Location 10000042 was browned out.
+
+Location 10000043 was browned out.
+
+Location 10000044 was browned out.
+
+Location 10000045 was browned out.
+
+Location 10000046 was browned out.
+
+Location 10000047 was browned out.
+
+Location 10000048 was browned out.
+
+Location 10000049 was browned out.
+
+Location 10000050 was browned out.
+
+Location 10000051 was browned out.
+
+Location 10000052 was browned out.
+
+Location 10000053 was browned out.
+
+Location 10000054 was browned out.
+
+Location 10000055 was browned out.
+
+Location 10000056 was browned out.
+
+Location 10000057 was browned out.
+
+Location 10000058 was browned out.
+
+Location 10000059 was browned out.
+
+Location 10000060 was browned out.
+
+Location 10000061 was browned out.
+
+Location 10000062 was browned out.
+
+Location 10000063 was browned out.
+
+Location 10000064 was browned out.
+
+Location 10000065 was browned out.
+
+Location 10000066 was browned out.
+
+Location 10000067 was browned out.
+
+Location 10000068 was browned out.
+
+Location 10000069 was browned out.
+
+Location 10000070 was browned out.
+
+Location 10000071 was browned out.
+
+Location 10000072 was browned out.
+
+Location 10000073 was browned out.
+
+Location 10000074 was browned out.
+
