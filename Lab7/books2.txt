@@ -1,0 +1,10 @@
+The Selfish Gene:GENRE_SCIENCE:Richard Dawkins:BIHF8976:384
+The Last Mughal:GENRE_HISTORY:William Dalrymple:HGHC8909:534
+The Feminist Companion to Literature in English Women Writers From the Middle Ages to the Present:GENRE_LITERATURE:V. Blain,P. Clements,I. Grundy:JHGF9089:767
+Climate and atmospheric history of the past 420,000 years:GENRE_HISTORY:J. R. Petit, J. Jouzel,D. Raynaud,N. I. Barkov,J. M. Barnola:FDST9878:675
+Midnight's Children:GENRE_LITERATURE:Salman Rushdie:INBV3456:674
+Digital signal processing:GENRE_ENGINEERING:John Proakis,Dimitris Manolakis:ZUTY9098:1004
+Thomas Jefferson and the Tripoli Pirates:GENRE_HISTORY:Brian Kilmeade,Don Yaeger:ABEW2345:234
+Random Graphs:GENRE_SCIENCE:Bela Bollobas:ZVTY9098:518
+Structures:GENRE_ENGINEERING:J. E. Gordon:JHIG9089:424
+The World's Best Books:GENRE_LITERATURE:Frank Parsons:YUTY8898:210
